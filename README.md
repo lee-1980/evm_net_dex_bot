@@ -72,7 +72,7 @@ If you would still like to run the bot from source please follow the instruction
 **Clone this repo:**
 
 ```
-git clone https://github.com/cusdt-LINK/alpha-kcc-dex-bot
+git clone https://github.com/lee-1980/evm_net_dex_bot
 ```
 
 **Install requirements:**
